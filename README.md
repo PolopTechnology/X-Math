@@ -14,6 +14,5 @@ This is how it works:
 4, 5 and 6 are in a loop, so you can do it again and again until you write something not in the computer's data.
 
 We know its complicated so why don't we show you? Download it and use it for yourself!
-Don't forget to write us ideas and improvements through poloptechnology@gmail.com!
 
 Attention: This code belongs to Polop Technologies.
