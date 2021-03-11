@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ZIrconDataSystem", "ZIrconDataSystem\ZIrconDataSystem.pyproj", "{8AD1F98C-7575-48A7-807D-1CDC66DB4AAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AD1F98C-7575-48A7-807D-1CDC66DB4AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD1F98C-7575-48A7-807D-1CDC66DB4AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9084EB06-A0A3-4BA2-8C4C-29150996DCF4}
+	EndGlobalSection
+EndGlobal
